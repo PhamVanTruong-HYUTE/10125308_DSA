@@ -1,5 +1,5 @@
-# 10125267_TRANDUCQUANG
-Bai tap CTDL&amp;GT - Tran Duc Quang - 10125N.1
+# 10125308_PHAMVANTRUONG
+Bai tap CTDL&amp;GT - Pham Van Truong - 10125N.1
 # Bài tập CTDL&GT – 211131
 - Họ tên: Phạm Văn Trường
 - MSV: 10125308
